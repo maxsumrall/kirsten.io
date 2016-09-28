@@ -1,0 +1,36 @@
+# Build settings
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: Kirsten van der Meulen
+description: "Kirsten van der Meulen, a student at TU/Eindhoven"
+keywords: "Kirsten van der Meulen, HTI, useability"
+url: http://www.kirsten.io
+baseurl: ""
+
+
+# Author settings
+author:
+  name      : Kirsten van der Meulen
+  job       : M.Sc Student
+  bio       : "Enthusiast, responsive, always looking for new smurfs."
+  thumb     : /images/author.jpg
+  email     : kirsten@kirsten.io
+  url       : http://kirsten.io
+
+# navbar pages
+#navbar:
+#  - slug: about
+#    title: About
+#  # - slug: resume
+#  #   title: Resume
+#  # - slug: skills
+#  #   title: Skills
+#  - slug: blog
+#    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+
