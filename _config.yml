@@ -15,7 +15,7 @@ baseurl: ""
 # Author settings
 author:
   name      : Kirsten van der Meulen
-  job       : Looking for a job.
+  job       : Looking for a job
   bio       : "Enthusiastic, responsive, and excited to learn about people and technology."
   thumb     : /images/author.jpg
   email     : kirsten@kirsten.io
