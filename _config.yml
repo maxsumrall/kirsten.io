@@ -6,8 +6,8 @@ sass:
 
 # SEO settings
 title: Kirsten van der Meulen
-description: "Kirsten van der Meulen, a student at TU/Eindhoven"
-keywords: "Kirsten van der Meulen, HTI, useability"
+description: "Kirsten van der Meulen, a graduate from TU/Eindhoven"
+keywords: "Kirsten van der Meulen, TU, TU Eindhoven, Eindhoven, University of Technology, Usability, User Experience, UX, Designer, Business Information Systems, Information Systems, IT, Kirsten, van der Meulen, ICT"
 url: http://www.kirsten.io
 baseurl: ""
 
@@ -15,7 +15,7 @@ baseurl: ""
 # Author settings
 author:
   name      : Kirsten van der Meulen
-  job       : M.Sc Student at TU/Eindhoven.
+  job       : Looking for a job.
   bio       : "Enthusiastic, responsive, and excited to learn about people and technology."
   thumb     : /images/author.jpg
   email     : kirsten@kirsten.io
