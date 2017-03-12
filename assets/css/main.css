@@ -1403,16 +1403,16 @@
 				}
 
 					#me header > h1 {
-						position: absolute;
+						position: relative;
 						left: 0;
 						bottom: 82.5%;
 						margin: 0;
 					}
 
 					#me header > p {
-						position: absolute;
+						position: relative;
 						left: 0;
-						top: 52.5%;
+						top: 82.5%;
 						font-size: 1.5em;
 						letter-spacing: -0.015em;
 						margin-top: 0;
